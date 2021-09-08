@@ -6,11 +6,9 @@
 - Question 2: (SQL File - Click Here)[https://github.com/antoneev/ShopifyTechnicalChallenge/blob/main/Question%202.sql]
 
 # Answer in Photo
-<b> Please scroll below to see answers in plain text. </b>
-<br>
-<b><i> You can click on images for them to be enlarged. </b></i> 
-![Question 1](https://raw.githubusercontent.com/antoneev/ShopifyTechnicalChallenge/Question-1.jpg)
-![Question 2](https://raw.githubusercontent.com/antoneev/ShopifyTechnicalChallenge/Question-2.jpg)
+<b> Please scroll below to see answers in plain text. </b> 
+![Question 1]((Question-1.jpg))
+![Question 2](Question-2.jpg)
 
 # Answers Plain Text
 ## Question 1
