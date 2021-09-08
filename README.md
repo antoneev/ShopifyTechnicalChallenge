@@ -1,5 +1,5 @@
 # Antone Evans Jr.
-## Winter 2022 Data Science Intern Challenge
+##  :snowflake: Winter 2022 Data Science Intern Challenge
 
 <b> All working for the work presented can be found below: </b>
 - Question 1: [Jupyter Notebook](https://github.com/antoneev/ShopifyTechnicalChallenge/blob/main/Question%201.ipynb)
@@ -7,7 +7,7 @@
 
 # Answer in Photo
 <b> Please scroll below to see answers in plain text. </b> 
-![Question 1]((Question-1.jpg))
+![Question 1](Question-1.jpg)
 ![Question 2](Question-2.jpg)
 
 # Answers Plain Text
