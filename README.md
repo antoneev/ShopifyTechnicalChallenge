@@ -2,13 +2,13 @@
 ## Winter 2022 Data Science Intern Challenge
 
 <b> All working for the work presented can be found below: </b>
-- Question 1: (1 - Click Here)[]
-- Question 2: (2 - Click Here)[]
+- Question 1: (Jupyter Notebook - Click Here)[https://github.com/antoneev/ShopifyTechnicalChallenge/blob/main/Question%201.ipynb]
+- Question 2: (SQL File - Click Here)[https://github.com/antoneev/ShopifyTechnicalChallenge/blob/main/Question%202.sql]
 
 # Answer in Photo
 <b> Please scroll below to see answers in plain text. </b>
-![Question 1](Question-1.png)
-![Question 2](Question-2.png)
+![Question 1](Question-1.jpg)
+![Question 2](Question-2.jpg)
 
 # Answers Plain Text
 ## Question 1
