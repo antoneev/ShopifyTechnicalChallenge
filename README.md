@@ -8,9 +8,9 @@
 # Answer in Photo
 <b> Please scroll below to see answers in plain text. </b>
 <br>
-<b><i> You can click on images for them to be enlarged. </b></i>
-![Question 1](Question-1.jpg)
-![Question 2](Question-2.jpg)
+<b><i> You can click on images for them to be enlarged. </b></i> 
+![Question 1](https://raw.githubusercontent.com/antoneev/ShopifyTechnicalChallenge/Question-1.jpg)
+![Question 2](https://raw.githubusercontent.com/antoneev/ShopifyTechnicalChallenge/Question-2.jpg)
 
 # Answers Plain Text
 ## Question 1
