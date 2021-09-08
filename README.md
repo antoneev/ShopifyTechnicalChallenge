@@ -2,8 +2,8 @@
 ## Winter 2022 Data Science Intern Challenge
 
 <b> All working for the work presented can be found below: </b>
-- Question 1: (Jupyter Notebook)[https://github.com/antoneev/ShopifyTechnicalChallenge/blob/main/Question%201.ipynb]
-- Question 2: (SQL File)[https://github.com/antoneev/ShopifyTechnicalChallenge/blob/main/Question%202.sql]
+- Question 1: [Jupyter Notebook](https://github.com/antoneev/ShopifyTechnicalChallenge/blob/main/Question%201.ipynb)
+- Question 2: [SQL File](https://github.com/antoneev/ShopifyTechnicalChallenge/blob/main/Question%202.sql)
 
 # Answer in Photo
 <b> Please scroll below to see answers in plain text. </b> 
