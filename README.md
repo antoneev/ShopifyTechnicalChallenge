@@ -16,12 +16,12 @@
 ```python
 # Order Sum
 orderAmountSum = question1_dataset['order_amount'].sum()
-orderSum
+orderAmountSum
 5725640
 
 # Total # of rows
 totalItemsRowCount = question1_dataset['total_items'].count()
-rowsCount
+totalItemsRowCount
 5000
 
 # Calculate Incorect AOV
@@ -31,30 +31,22 @@ incorrectAOV
 3145.13
 ```
 
-The incorrect calculation is found by dividing by the total number of rows. The AOV should be calculated by dividing the sum of sales by the sum of items sold.
+The incorrect calculation is found by dividing by the total number of rows. The AOV is typically calculated by dividing the sum of sales (5725640) by the sum of items sold (43936). This would give us the value 357.92 (the mean). In addition, we can derive great information from the mode (153.00) and median (284.00) of the order amount column. 
 
 ### b.
 
-As this report simply asked for the AOV, I would only report the 'order_amount' and 'total_items' columns. More specifically I would report the sums of both. The AOV can be calculated through the use of these sums as followed:
+As a metric is a single value, of the mean, mode and median.  I would report the mode. Although, I believe it is important to consider all 3 values and there relation to each others price point. As the mean can be skewed, due to outliers in pricing as within this dataset where the min value is $90, 25% - $163, 50% - 284, 75% - 390 and max value 704000. Therefore, the means price point does not always represent the data set as a whole. However, the mode represents the most common price point for items bought from a store. This allows us to see the best holistic view.
 
-AOV = orderAmountSum/totalItemsSum
-
-In an article wrote by Shopify surrounding AOV, it was also stated that businesses could get a better view when the median and mode are calculated. Therefore, along with returning the mean, I would report the median and mode as well.
-Source: https://www.shopify.com/blog/average-order-value
+![Order Amount Boxplot](order_amount-boxplot.png)
 
 ### c. 
 
-```python
-# Total Items Sum
-totalItemsSum = question1_dataset['total_items'].sum()
-totalItemsSum
-43936
+<b> All metrics values were calculated and can be noted in my Juypter Notebook. </b>
 
-# Calculate AOV
-AOV = orderAmountSum / totalItemsSum
-AOV = str(round(AOV, 2))
-AOV
-357.92
+```python
+mode = question1_dataset['order_amount'].mode()[0]
+mode
+$153.00
 ```
 
 
