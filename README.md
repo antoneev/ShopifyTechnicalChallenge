@@ -31,7 +31,7 @@ incorrectAOV
 3145.13
 ```
 
-The incorrect calculation is found by dividing by the total number of rows. The AOV is typically calculated by dividing the sum of sales (5725640) by the sum of items sold (43936). This would give us the value 357.92 (the mean). In addition, we can derive great information from the mode (153.00) and median (284.00) of the order amount column. 
+The incorrect calculation is found by dividing by the total number of rows. The AOV is typically calculated by dividing the sum of sales (5725640) by the sum of items sold (43936). This would give us the value 357.92 (the mean). In addition, we can derive great information from the mode (153.00) and median (284.00) of the order amount column. The best way to evaluate the data is by looking at the mode, mean and median.
 
 ### b.
 
